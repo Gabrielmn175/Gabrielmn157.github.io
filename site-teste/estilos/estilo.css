@@ -1,0 +1,49 @@
+
+html {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #ffff;
+}
+
+h1, h2, h3, p {
+    text-align: center;
+    padding: 10px 0;
+}
+
+h1 {
+    text-shadow: 5px 3px 5px #a1a1a1;
+}
+
+p, li {
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+li {
+   padding: 10px 0;
+
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+body {
+    background-color: #2e2e2e;
+    width: 600px;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+img {
+    display: block;
+    width: 600px;
+    margin: 20px auto;
+    padding: 10px 0;
+}
